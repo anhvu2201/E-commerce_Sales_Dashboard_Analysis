@@ -1,4 +1,4 @@
-# Global_Superstore_E-commerce_Sales_Analysis
+# Global Superstore E-commerce Sales Analysis
 # I. Introduction
 ## 1. Dataset Introduction:
 - In this project, I will use PowerBI (PBI) to visualize and analyze Global Superstore dataset - an e-commerce business, in order to make strategic expasion decision.
